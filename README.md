@@ -4,7 +4,7 @@ Análisis exploratorio de datos (EDA), proceso de limpieza (ETL) y tablero inter
 
 > 🔗 **[Ver Dashboard Interactivo en Looker Studio](https://datastudio.google.com/reporting/25dfb836-00d0-4ab3-acdf-41d920880d55)**
 
-![Vista previa del Dashboard](dashboard/TP_4_Dashboard_Preview.png)
+![Vista previa del Dashboard](dashboards/TP_4_Dashboard_Preview.png)
 
 ---
 
